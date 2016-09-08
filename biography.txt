@@ -1,8 +1,28 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+
+	Jonathan Lowe 
+
 2. Why are you interested in Data Science?
+
+	I currently work as a DBA for a clinic in Central Wisconsin and wanted to further my career and knowledge in data sciences.  With EHR software and the clinic/hospital taking advantage of studies with patient data, i thought my opportunities to fill the technical need would be great. I found the Data Science program online through UW systems and thought it would be perfect for a non-traditional  student who would be working full time.
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+
+	I have taken a few programing courses in college.  These include Java, VB.net, C/C++, VBA.  I also use SQl at work but am not a developer.  I feel comfortable programming when there is purpose but lose interest at home if not dedicated;OpenGL projects.
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	
+	I have taken business statisitcs courses during college.  I've never felt that they were extremely difficult.  I was kind of surpised how much Data Science really is statisitics with computer science.  When i first applied for the course, it appeared that it was geared for the DBA/SE looking to branch into Hadoop or something similar but looking deeper, i found statistics was the foundation of the course. I realized I would need to focus on learning stats to be successfull.  This made my summer course difficult because the intro to data science class did not teach any statisistcs but rather directly stated that it was a requirement and would not be taught.  I read the recommended book, "Naked Statisitics", but still felt that the statisic material could have been presented along his presentations.  That said i did well in the class but wish the statisics were focused on so i could have absorbed more from the professor and less from professors on youtube.  I currently do not use statistics in my DBA position.
+
 5.  Do you have other experience with R or Python?
+
+	I have no professional experience with R or Python.  I have watched learning videos on youtube and pluralsite for both.
+
 6.  What do you hope to learn in this class?
+
+	I would like to get a better understand of R and a clear understanding of Python.  During the summer semester Intro to DS class, we utilized a Practical Data Science textbook that focused on R.  I really felt like i got a good understanding of the R language but would love to learn more.  I have little to no experience in Python but would like to learn the langauge to have a broader understanding of how others approach data science.
+
 7.  Is there anything else you would like to share with us?
+
+	I'm excited to start the course!
